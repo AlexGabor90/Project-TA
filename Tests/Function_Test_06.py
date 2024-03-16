@@ -3,7 +3,7 @@ Test: Search for a non-existing product.
 """
 import unittest
 from selenium import webdriver
-from Core.code_center import CorePage
+from Code_Source.code_center import CorePage
 from Page_Data_Locators.page_data import PageData
 
 

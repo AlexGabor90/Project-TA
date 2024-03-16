@@ -3,7 +3,7 @@ Test the product with the highest price.
 """
 import unittest
 from selenium import webdriver
-from Core.code_center import CorePage
+from Code_Source.code_center import CorePage
 
 
 class TestHighProduct(unittest.TestCase):

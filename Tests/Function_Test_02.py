@@ -4,7 +4,7 @@ Test if the correct title is displayed.
 import unittest
 from selenium import webdriver
 from Page_Data_Locators.page_data import PageData
-from Core.code_center import CorePage
+from Code_Source.code_center import CorePage
 from Base.base_code import BasePage
 
 

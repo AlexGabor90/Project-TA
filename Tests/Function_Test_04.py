@@ -3,7 +3,7 @@ Test : Find the product with the lowest price.
 """
 import unittest
 from selenium import webdriver
-from Core.code_center import CorePage
+from Code_Source.code_center import CorePage
 
 
 class TestLowProduct(unittest.TestCase):
